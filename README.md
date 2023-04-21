@@ -38,7 +38,7 @@ Here is a <a href="https://drive.google.com/file/d/1qYYN5Jm21FZCW-U7zRrw1xgmCrfz
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/DipperScript/repo.git`
+1. Clone the repository: `git clone https://github.com/DipperScript/CAD-Files-in-Browser-using-three.js.git`
 2. Navigate to the project directory: `cd repo`
 3. Install dependencies: `npm install`
 4. Start the local development server: `npm run dev`
